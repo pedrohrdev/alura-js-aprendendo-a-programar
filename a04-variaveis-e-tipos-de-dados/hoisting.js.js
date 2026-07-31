@@ -3,16 +3,16 @@
 /*
 Hoisting, no portugues, significa içar ou puxar algo pra cima. Apartir disso
 temos a informacao que toda vez que executamos o nosso codigo, antes de executar
-o javascript faz um hoisting, que é oque? pegar declaracoes de variaveis e puxar
-para cima, porem so funciona com o var essa visao de que o js pegou a variavel e puxou
-para cima
+o javascript faz um hoisting, que é oque? o js percorre o codigo e registra 
+algumas declaracoes, como variaveis declaradas com var e funcoes, porem so
+funciona com o var essa visao de que o "js pegou a variavel e puxou
+para cima"
 */
 
+// Antes de rodar o codigo, o JavaScript registrou a variavel nome.
 console.log(nome);
 
-var nome = 'Pedro';
-// Neste ponto aqui, o js fez o hoisting e declarou undefined em nome no console.log
-// pois no hoisting ele viu que nome passou a existir, logo ele "elevou a variavel nome para cima"
+var nome = 'Pedro'; // Nesse momento ela possui valor undefined, por isso o console.log imprime undefined
 
 // ======================================================== //
 
@@ -20,4 +20,4 @@ var nome = 'Pedro';
 console.log(idade)
 
 // Nosso codigo rodou la em cima, porem aq em console.log(idade) deu erro
-// pois idade nao esta definida ainda
+// pois idade nao existe

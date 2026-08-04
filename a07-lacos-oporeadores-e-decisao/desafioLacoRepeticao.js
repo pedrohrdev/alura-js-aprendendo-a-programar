@@ -20,6 +20,6 @@ for(let i = 1; i <= 100; i++) {
 
 };
 
-console.log(`O total de numeros pares entre 1 e 100 é: ${totalNumerosPares}`)
+console.log(`O total de numeros pares entre 1 e 100 é: ${totalNumerosPares}`);
 
 console.log(`O total de numeros impares entre 1 e 100 é: ${totalNumerosImpares}`);

@@ -21,6 +21,7 @@ for(let contador = 1; contador <= 3; contador++) {
     let tentativaDois = 40;
     let tentativaTres = 5;
 
+    // Simulando a primeira tentativa
     if(contador === 1) {
 
         console.log(`Sua tentativa: ${tentativaUm}`);
@@ -31,6 +32,7 @@ for(let contador = 1; contador <= 3; contador++) {
             console.log('Tente novamente \n')
         }
 
+    // Simulando a segunda tentativa    
     } else if(contador === 2) {
 
         console.log(`Sua tentativa: ${tentativaDois}`);
@@ -41,6 +43,7 @@ for(let contador = 1; contador <= 3; contador++) {
             console.log('Tente novamente \n')
         }
 
+    // Simulando a terceira tentativa
     } else if(contador === 3) {
 
         console.log(`Sua tentativa: ${tentativaTres}`);

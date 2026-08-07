@@ -25,7 +25,7 @@ const id = setInterval(() => {
 
 
     if(contador === 10) {
-        clearInterval(id); // a funcao clear Interval literalmente para a execucao do setTimeout com base no id que a funcao setTimeout retorna
+        clearInterval(id); // a funcao clear Interval literalmente para a execucao do setInterval com base no id que a funcao setInterval retorna
     }
 
 }, 1000)

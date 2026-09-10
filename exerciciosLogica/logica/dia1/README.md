@@ -312,7 +312,7 @@ Total de notas: 7
 
 # ✅ Checklist
 
-* [ ] Exercício 01
+* [x] Exercício 01
 * [ ] Exercício 02
 * [ ] Exercício 03
 * [ ] Exercício 04

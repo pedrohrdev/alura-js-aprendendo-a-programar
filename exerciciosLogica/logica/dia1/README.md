@@ -313,8 +313,8 @@ Total de notas: 7
 # ✅ Checklist
 
 * [x] Exercício 01
-* [ ] Exercício 02
-* [ ] Exercício 03
+* [x] Exercício 02
+* [x] Exercício 03
 * [ ] Exercício 04
 * [ ] Exercício 05
 * [ ] Exercício 06

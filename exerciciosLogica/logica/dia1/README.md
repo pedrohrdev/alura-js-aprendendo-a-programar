@@ -318,7 +318,7 @@ Total de notas: 7
 * [x] Exercício 04
 * [x] Exercício 05
 * [x] Exercício 06
-* [ ] Exercício 07
+* [x] Exercício 07
 * [ ] Exercício 08
 * [ ] Exercício 09
 * [ ] Desafio do Dia

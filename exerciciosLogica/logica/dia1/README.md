@@ -315,9 +315,9 @@ Total de notas: 7
 * [x] Exercício 01
 * [x] Exercício 02
 * [x] Exercício 03
-* [ ] Exercício 04
-* [ ] Exercício 05
-* [ ] Exercício 06
+* [x] Exercício 04
+* [x] Exercício 05
+* [x] Exercício 06
 * [ ] Exercício 07
 * [ ] Exercício 08
 * [ ] Exercício 09

@@ -457,7 +457,7 @@ Verifique se o programa consegue representar corretamente todos eles.
 
 ## 🟡 Médios
 
-* [ ] Exercício 04 — Média de três números
+* [x] Exercício 04 — Média de três números
 * [ ] Exercício 05 — Calculando o troco
 * [ ] Exercício 06 — Conversão de temperatura
 
@@ -478,9 +478,9 @@ Verifique se o programa consegue representar corretamente todos eles.
 ```text
 Dia 02/100
 
-Exercícios: 2/10
-Fáceis:     2/3
-Médios:     0/3
+Exercícios: 4/10
+Fáceis:     3/3
+Médios:     1/3
 Difíceis:   0/3
 Desafio:    ⬜
 ```

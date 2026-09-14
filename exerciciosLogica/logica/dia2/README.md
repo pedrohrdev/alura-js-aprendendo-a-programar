@@ -453,7 +453,7 @@ Verifique se o programa consegue representar corretamente todos eles.
 
 * [x] Exercício 01 — Dobro de um número
 * [x] Exercício 02 — Área de um retângulo
-* [ ] Exercício 03 — Conversão de minutos
+* [x] Exercício 03 — Conversão de minutos
 
 ## 🟡 Médios
 

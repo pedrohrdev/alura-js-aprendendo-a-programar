@@ -452,7 +452,7 @@ Verifique se o programa consegue representar corretamente todos eles.
 ## 🟢 Fáceis
 
 * [x] Exercício 01 — Dobro de um número
-* [ ] Exercício 02 — Área de um retângulo
+* [x] Exercício 02 — Área de um retângulo
 * [ ] Exercício 03 — Conversão de minutos
 
 ## 🟡 Médios
@@ -478,8 +478,8 @@ Verifique se o programa consegue representar corretamente todos eles.
 ```text
 Dia 02/100
 
-Exercícios: 1/10
-Fáceis:     1/3
+Exercícios: 2/10
+Fáceis:     2/3
 Médios:     0/3
 Difíceis:   0/3
 Desafio:    ⬜

@@ -459,7 +459,7 @@ Verifique se o programa consegue representar corretamente todos eles.
 
 * [x] Exercício 04 — Média de três números
 * [x] Exercício 05 — Calculando o troco
-* [ ] Exercício 06 — Conversão de temperatura
+* [x] Exercício 06 — Conversão de temperatura
 
 ## 🔴 Difíceis
 
@@ -478,9 +478,9 @@ Verifique se o programa consegue representar corretamente todos eles.
 ```text
 Dia 02/100
 
-Exercícios: 5/10
+Exercícios: 6/10
 Fáceis:     3/3
-Médios:     2/3
+Médios:     3/3
 Difíceis:   0/3
 Desafio:    ⬜
 ```

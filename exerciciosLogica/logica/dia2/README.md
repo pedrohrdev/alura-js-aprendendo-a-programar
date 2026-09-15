@@ -463,7 +463,7 @@ Verifique se o programa consegue representar corretamente todos eles.
 
 ## 🔴 Difíceis
 
-* [ ] Exercício 07 — Decompondo segundos
+* [x] Exercício 07 — Decompondo segundos
 * [ ] Exercício 08 — Salário líquido
 * [ ] Exercício 09 — Conta do restaurante
 
@@ -478,10 +478,10 @@ Verifique se o programa consegue representar corretamente todos eles.
 ```text
 Dia 02/100
 
-Exercícios: 6/10
+Exercícios: 7/10
 Fáceis:     3/3
 Médios:     3/3
-Difíceis:   0/3
+Difíceis:   1/3
 Desafio:    ⬜
 ```
 

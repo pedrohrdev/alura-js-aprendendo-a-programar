@@ -464,8 +464,8 @@ Verifique se o programa consegue representar corretamente todos eles.
 ## 🔴 Difíceis
 
 * [x] Exercício 07 — Decompondo segundos
-* [ ] Exercício 08 — Salário líquido
-* [ ] Exercício 09 — Conta do restaurante
+* [x] Exercício 08 — Salário líquido
+* [x] Exercício 09 — Conta do restaurante
 
 ## 🏆 Desafio
 
@@ -481,7 +481,7 @@ Dia 02/100
 Exercícios: 7/10
 Fáceis:     3/3
 Médios:     3/3
-Difíceis:   1/3
+Difíceis:   3/3
 Desafio:    ⬜
 ```
 
@@ -493,19 +493,19 @@ Depois de terminar os 10 exercícios, responda:
 
 ### 1. Qual exercício mais me fez pensar?
 
-Resposta:
+Resposta: O de decompor segundos
 
 ### 2. Em qual exercício eu precisei de ajuda?
 
-Resposta:
+Resposta: O de decompor segundos
 
 ### 3. O que eu aprendi hoje que não sabia ontem?
 
-Resposta:
+Resposta: melhorei o raciocinio logico
 
 ### 4. Eu consigo explicar a lógica dos meus códigos sem olhar para eles?
 
-Resposta:
+Resposta: sim
 
 ---
 

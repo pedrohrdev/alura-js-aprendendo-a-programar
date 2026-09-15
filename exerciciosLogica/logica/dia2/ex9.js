@@ -6,3 +6,4 @@ let totalDaCompra = (valorConsumido * 0.10) + valorConsumido;
 let cadaUmVaiPagar = totalDaCompra / quantidadeDePessoas
 
 console.log(`Cada pessoa vai pagar ${cadaUmVaiPagar}`);
+//

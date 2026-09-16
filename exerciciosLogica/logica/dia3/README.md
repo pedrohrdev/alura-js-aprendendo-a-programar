@@ -415,7 +415,7 @@ Teste com diferentes quantidades.
 * [x] 01 — Soma de dois números
 * [x] 02 — Área de um retângulo
 * [x] 03 — Conversão de minutos
-* [ ] 04 — Preço com desconto
+* [x] 04 — Preço com desconto
 * [ ] 05 — Média de notas
 * [ ] 06 — Conversor de temperatura
 * [ ] 07 — Troca de valores

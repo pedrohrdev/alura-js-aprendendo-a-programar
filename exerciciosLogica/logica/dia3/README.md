@@ -60,9 +60,9 @@ Saída:
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Testado com outros valores
-* [ ] Entendi a solução
+* [x] Resolvido sozinho
+* [x] Testado com outros valores
+* [x] Entendi a solução
 
 ---
 

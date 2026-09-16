@@ -178,10 +178,10 @@ Faça o programa funcionar independentemente de as notas serem números inteiros
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Testado com outros valores
-* [ ] Testado com números decimais
-* [ ] Entendi a solução
+* [x] Resolvido sozinho
+* [x] Testado com outros valores
+* [x] Testado com números decimais
+* [x] Entendi a solução
 
 ---
 

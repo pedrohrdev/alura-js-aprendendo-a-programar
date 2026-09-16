@@ -215,10 +215,10 @@ Depois teste com:
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Testado com valores positivos
-* [ ] Testado com valores negativos
-* [ ] Entendi a fórmula
+* [x] Resolvido sozinho
+* [x] Testado com valores positivos
+* [x] Testado com valores negativos
+* [x] Entendi a fórmula
 
 ---
 
@@ -416,8 +416,8 @@ Teste com diferentes quantidades.
 * [x] 02 — Área de um retângulo
 * [x] 03 — Conversão de minutos
 * [x] 04 — Preço com desconto
-* [ ] 05 — Média de notas
-* [ ] 06 — Conversor de temperatura
+* [x] 05 — Média de notas
+* [x] 06 — Conversor de temperatura
 * [ ] 07 — Troca de valores
 * [ ] 08 — Divisão de dinheiro
 * [ ] 09 — Tempo total

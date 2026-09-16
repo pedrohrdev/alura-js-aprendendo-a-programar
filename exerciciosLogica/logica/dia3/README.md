@@ -87,9 +87,9 @@ Altura: 5
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Testado com outros valores
-* [ ] Entendi a solução
+* [x] Resolvido sozinho
+* [x] Testado com outros valores
+* [x] Entendi a solução
 
 ---
 
@@ -116,10 +116,10 @@ Tente fazer a conversão usando apenas operações matemáticas, sem pesquisar u
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Testado com outros valores
-* [ ] Entendi a solução
-* [ ] Fiz o desafio extra
+* [x] Resolvido sozinho
+* [x] Testado com outros valores
+* [x] Entendi a solução
+* [x] Fiz o desafio extra
 
 ---
 
@@ -412,9 +412,9 @@ Teste com diferentes quantidades.
 
 ## Exercícios
 
-* [ ] 01 — Soma de dois números
-* [ ] 02 — Área de um retângulo
-* [ ] 03 — Conversão de minutos
+* [x] 01 — Soma de dois números
+* [x] 02 — Área de um retângulo
+* [x] 03 — Conversão de minutos
 * [ ] 04 — Preço com desconto
 * [ ] 05 — Média de notas
 * [ ] 06 — Conversor de temperatura

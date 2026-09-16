@@ -389,9 +389,9 @@ Descubra uma forma segura de trabalhar com dinheiro.
 
 # 🧠 Checklist do Dia 4
 
-* [ ] 01 — Troca de valores
-* [ ] 02 — Conversor de temperatura
-* [ ] 03 — Média de três números
+* [x] 01 — Troca de valores
+* [x] 02 — Conversor de temperatura
+* [x] 03 — Média de três números
 * [ ] 04 — Troco
 * [ ] 05 — Conversão de segundos
 * [ ] 06 — Conta de restaurante

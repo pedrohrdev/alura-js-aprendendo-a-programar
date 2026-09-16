@@ -146,10 +146,10 @@ R$ 170
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Testado com outros valores
-* [ ] Testado com 0% de desconto
-* [ ] Entendi a solução
+* [x] Resolvido sozinho
+* [x] Testado com outros valores
+* [x] Testado com 0% de desconto
+* [x] Entendi a solução
 
 ---
 
@@ -254,10 +254,10 @@ Depois de resolver, pense:
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Testado com outros valores
-* [ ] Entendi o processo
-* [ ] Fiz o desafio extra
+* [x] Resolvido sozinho
+* [x] Testado com outros valores
+* [x] Entendi o processo
+* [x] Fiz o desafio extra
 
 ---
 
@@ -293,11 +293,11 @@ Pense em quais operadores matemáticos podem descobrir:
 
 **Checklist:**
 
-* [ ] Resolvido sozinho
-* [ ] Usei divisão corretamente
-* [ ] Descobri o restante
-* [ ] Testei uma divisão exata
-* [ ] Testei uma divisão com sobra
+* [x] Resolvido sozinho
+* [x] Usei divisão corretamente
+* [x] Descobri o restante
+* [x] Testei uma divisão exata
+* [x] Testei uma divisão com sobra
 
 ---
 
@@ -338,12 +338,12 @@ Tente resolver a segunda parte sem pesquisar a resposta.
 
 **Checklist:**
 
-* [ ] Fiz a conversão para segundos
-* [ ] Fiz a conversão de volta
-* [ ] Testei valores diferentes
-* [ ] Entendi o uso de divisão
-* [ ] Entendi o uso do resto
-* [ ] Fiz o desafio sem pesquisar
+* [x] Fiz a conversão para segundos
+* [x] Fiz a conversão de volta
+* [x] Testei valores diferentes
+* [x] Entendi o uso de divisão
+* [x] Entendi o uso do resto
+* [x] Fiz o desafio sem pesquisar
 
 ---
 
@@ -418,9 +418,9 @@ Teste com diferentes quantidades.
 * [x] 04 — Preço com desconto
 * [x] 05 — Média de notas
 * [x] 06 — Conversor de temperatura
-* [ ] 07 — Troca de valores
-* [ ] 08 — Divisão de dinheiro
-* [ ] 09 — Tempo total
+* [x] 07 — Troca de valores
+* [x] 08 — Divisão de dinheiro
+* [x] 09 — Tempo total
 * [ ] 10 — Sistema de pagamento
 
 ## 🧠 Autoavaliação

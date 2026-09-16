@@ -421,38 +421,38 @@ Teste com diferentes quantidades.
 * [x] 07 — Troca de valores
 * [x] 08 — Divisão de dinheiro
 * [x] 09 — Tempo total
-* [ ] 10 — Sistema de pagamento
+* [x] 10 — Sistema de pagamento
 
 ## 🧠 Autoavaliação
 
 **Quantos exercícios resolvi sem ajuda?**
 
 ```text
-____ / 10=
+9 / 10=
 ```
 
 **Qual exercício mais me fez pensar?**
 
 ```text
-____________________________________
+O desafio____________________________________
 ```
 
 **Onde eu travei?**
 
 ```text
-____________________________________
+calcular a logica de resto para alguem____________________________________
 ```
 
 **O que aprendi hoje?**
 
 ```text
-____________________________________
+melhorei em logica____________________________________
 ```
 
 **Consegui escrever as soluções novamente sem olhar depois de receber ajuda?**
 
 ```text
-[ ] Sim
+[x] Sim
 [ ] Não
 ```
 

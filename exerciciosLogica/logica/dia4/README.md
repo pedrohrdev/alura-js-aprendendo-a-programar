@@ -392,9 +392,9 @@ Descubra uma forma segura de trabalhar com dinheiro.
 * [x] 01 — Troca de valores
 * [x] 02 — Conversor de temperatura
 * [x] 03 — Média de três números
-* [ ] 04 — Troco
-* [ ] 05 — Conversão de segundos
-* [ ] 06 — Conta de restaurante
+* [x] 04 — Troco
+* [x] 05 — Conversão de segundos
+* [x] 06 — Conta de restaurante
 * [ ] 07 — Caixa eletrônico
 * [ ] 08 — Inverter número
 * [ ] 09 — Distância entre dois pontos

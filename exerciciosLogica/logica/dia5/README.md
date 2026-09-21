@@ -489,7 +489,7 @@ usar restante no próximo cálculo
 * [x] 01 — Conversor de minutos
 * [x] 02 — Dividindo uma conta
 * [x] 03 — Idade em dias
-* [ ] 04 — Converter segundos
+* [x] 04 — Converter segundos
 * [ ] 05 — Caixa de produtos
 * [ ] 06 — Decompondo um número
 * [ ] 07 — Estacionamento

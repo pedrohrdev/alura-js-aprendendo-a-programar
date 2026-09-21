@@ -397,7 +397,7 @@ Descubra uma forma segura de trabalhar com dinheiro.
 * [x] 06 — Conta de restaurante
 * [x] 07 — Caixa eletrônico
 * [x] 08 — Inverter número
-* [ ] 09 — Distância entre dois pontos
+* [x] 09 — Distância entre dois pontos
 * [ ] 10 — Máquina de troco
 
 ---

@@ -486,7 +486,7 @@ usar restante no próximo cálculo
 
 # ✅ Checklist do Dia 05
 
-* [ ] 01 — Conversor de minutos
+* [x] 01 — Conversor de minutos
 * [ ] 02 — Dividindo uma conta
 * [ ] 03 — Idade em dias
 * [ ] 04 — Converter segundos

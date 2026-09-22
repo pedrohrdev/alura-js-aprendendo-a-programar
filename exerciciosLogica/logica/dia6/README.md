@@ -446,7 +446,7 @@ Saída:   01:15
 # ✅ Checklist — Dia 6
 
 * [x] 01 — Conversor de minutos
-* [ ] 02 — Idade em dias
+* [x] 02 — Idade em dias
 * [ ] 03 — Média de velocidade
 * [ ] 04 — Decompondo segundos
 * [ ] 05 — Consumo de combustível

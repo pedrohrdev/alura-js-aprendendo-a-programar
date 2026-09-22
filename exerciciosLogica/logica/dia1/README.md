@@ -320,8 +320,8 @@ Total de notas: 7
 * [x] Exercício 06
 * [x] Exercício 07
 * [x] Exercício 08
-* [ ] Exercício 09
-* [ ] Desafio do Dia
+* [x] Exercício 09
+* [x] Desafio do Dia
 
 ---
 

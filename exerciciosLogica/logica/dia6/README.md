@@ -447,7 +447,7 @@ Saída:   01:15
 
 * [x] 01 — Conversor de minutos
 * [x] 02 — Idade em dias
-* [ ] 03 — Média de velocidade
+* [x] 03 — Média de velocidade
 * [ ] 04 — Decompondo segundos
 * [ ] 05 — Consumo de combustível
 * [ ] 06 — Divisão de conta

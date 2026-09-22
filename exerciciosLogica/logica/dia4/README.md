@@ -398,7 +398,7 @@ Descubra uma forma segura de trabalhar com dinheiro.
 * [x] 07 — Caixa eletrônico
 * [x] 08 — Inverter número
 * [x] 09 — Distância entre dois pontos
-* [ ] 10 — Máquina de troco
+* [x] 10 — Máquina de troco
 
 ---
 

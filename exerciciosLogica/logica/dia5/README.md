@@ -490,8 +490,8 @@ usar restante no próximo cálculo
 * [x] 02 — Dividindo uma conta
 * [x] 03 — Idade em dias
 * [x] 04 — Converter segundos
-* [ ] 05 — Caixa de produtos
-* [ ] 06 — Decompondo um número
+* [x] 05 — Caixa de produtos
+* [x] 06 — Decompondo um número
 * [ ] 07 — Estacionamento
 * [ ] 08 — Distribuição de dinheiro
 * [ ] 09 — Relógio digital

@@ -492,7 +492,7 @@ usar restante no próximo cálculo
 * [x] 04 — Converter segundos
 * [x] 05 — Caixa de produtos
 * [x] 06 — Decompondo um número
-* [ ] 07 — Estacionamento
+* [x] 07 — Estacionamento
 * [ ] 08 — Distribuição de dinheiro
 * [ ] 09 — Relógio digital
 * [ ] 10 — Máquina registradora

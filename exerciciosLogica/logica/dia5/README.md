@@ -495,7 +495,7 @@ usar restante no próximo cálculo
 * [x] 07 — Estacionamento
 * [x] 08 — Distribuição de dinheiro
 * [x] 09 — Relógio digital
-* [ ] 10 — Máquina registradora
+* [x] 10 — Máquina registradora
 
 ---
 

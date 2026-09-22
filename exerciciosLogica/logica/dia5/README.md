@@ -494,7 +494,7 @@ usar restante no próximo cálculo
 * [x] 06 — Decompondo um número
 * [x] 07 — Estacionamento
 * [x] 08 — Distribuição de dinheiro
-* [ ] 09 — Relógio digital
+* [x] 09 — Relógio digital
 * [ ] 10 — Máquina registradora
 
 ---
